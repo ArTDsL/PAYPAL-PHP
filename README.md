@@ -1,13 +1,18 @@
 # PAYPAL-PHP
 Easy PayPal Rest Integration for PHP (on-development)
+<hr>
+
+***_BE AWARE:_*** THIS CODE/BUILD IS ***NOT*** READY FOR PRODUCTION ENVIRONMENT!
+
+<hr>
 
 ### Requirements
+
 ```
 • PHP 7.4+ Required.
 • cUrl.
 • PayPal Account.
 ```
-<br>
 
 ## What is DONE?
 
